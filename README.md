@@ -4,7 +4,7 @@
 
 A Business Administrator with over 10 years of experience leading operations, finance, and team management. Currently complementing a strong business background with technical skills in Data Analysis (Python, SQL, Power BI, Tableau) through the TripleTen Data Analyst bootcamp.
 
-Skilled in optimizing processes, ma budgets, and analyzing data to generate valuable insights that drive strategic decision-making. Seeking a Data Analyst role to apply my business acumen and new analytical capabilities to solve complex problems and generate value through data.
+Skilled in optimizing processes, managing budgets, and analyzing data to generate valuable insights that drive strategic decision-making. Seeking a Data Analyst role to apply my business acumen and new analytical capabilities to solve complex problems and generate value through data.
 
 My CV in [pdf](https://github.com/JaneSarabiaC/data-analytics-portafolio/tree/main/CV-Janeth-Sarabia)
 
